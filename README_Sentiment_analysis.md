@@ -1,4 +1,4 @@
-# Academic-Sentiment Analysis
+# Sentiment Analysis
 R studio experiments
 
 SENTIMENTAL ANALYSIS USING TWITTER DATA
